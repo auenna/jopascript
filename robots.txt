@@ -1,0 +1,5 @@
+Sitemap: https://drfone.wondershare.com/sitemap.xml
+User-agent: *
+Disallow: /thankyou/
+Disallow: /survey/ 
+Disallow: /share-your-reviews.html
